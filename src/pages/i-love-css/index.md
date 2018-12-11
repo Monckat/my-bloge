@@ -1,3 +1,8 @@
+---
+title: CSS is pretty great
+date: "2018-12-10T22:40:32.169Z"
+---
+
 hey everyone i think css is a real banger
 
 ##allow me to list the ways.
